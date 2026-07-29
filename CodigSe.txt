@@ -1,0 +1,26 @@
+Codigo	Voltaje_Amp_Watts	Sistema_Serie	Pines_Dientes_Giro
+1971975	N/D	H7	N/D
+1948000	12V - 65W	9005	N/D
+1975403	12V - 24W	PSY24W	N/D
+2928800	N/D	N/D	5 Terminales
+2307500	N/D	Delco / PMGR	11 Dientes
+3107800	N/D	Hitachi / PMGR	N/D
+3109500	N/D	Motorcraft	N/D
+3661200	N/D	Delco PG260D	N/D
+0107700	12V - 80A	Mitsubishi	Giro CW
+3128100	N/D	Mitsuba	N/D
+0604002	12V	N/D	N/D
+3661800	12V	N/D	N/D
+2269700	N/D	Tipo Original	9 Dientes / Giro CW
+3288902	N/D	Serie 6G	N/D
+3313006	N/D	Nippondenso	3 Terminales
+2747000	N/D	Valeo	8 Dientes
+0943001	N/D	N/D	9 Terminales
+4321859	12V	N/D	N/D
+0544318	N/D	N/D	N/D
+0607006	N/D	Bosch-401	N/D
+3749500	N/D	Bosch	N/D
+0930700	N/D	EFI	N/D
+3528700	N/D	RCH30	N/D
+0271052	N/D	N/D	8 Pulgadas
+2293100	N/D	Delco PG200 / PMGR	N/D
